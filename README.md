@@ -34,10 +34,10 @@ A solução será implementada com base na plataforma **Microsoft Power BI**, ex
 ## Estrutura do Projeto
 
 **projeto-sop**
-├── src/ # Código-fonte da aplicação
-├── data/ # Dados de entrada e saída (planilhas, CSV, etc.)
-├── docs/ # Documentos e diagramas do projeto
-└── README.md # Este arquivo
+- ├── src/ # Código-fonte da aplicação
+- ├── data/ # Dados de entrada e saída (planilhas, CSV, etc.)
+- ├── docs/ # Documentos e diagramas do projeto
+- └── README.md # Este arquivo
 
 ---
 
